@@ -14,6 +14,13 @@ The objective was to extract meaningful business insights by:
 
 ---
 
+## Business Problem
+
+“How can the company leverage consumer shopping data to identify trends, improve 
+customer engagement, and optimize marketing and product strategies?”   
+
+---
+
 ## 📊 Dataset
 
 The dataset contains customer shopping behavior information, including:
